@@ -6,9 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=mrgiann&color=gray">
 </p>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://portafolio-renzo-roggiapane.netlify.app/)
+- 👨‍💻 Explore my work and projects on my personal portfolio: **[portafolio-renzo-roggiapane.netlify.app](https://portafolio-renzo-roggiapane.netlify.app/)**
+- 🌱 Currently focused on improving my skills in **JavaScript**
 
-- 🌱 I’m currently learning **Javascript**
 
 ### 📩 Connect with me:
 <p align="center">
